@@ -1,0 +1,15 @@
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\bin\Debug\netcoreapp3.1\JwtWebApi.Entity.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\obj\Debug\netcoreapp3.1\JwtWebApi.DataAccess.csprojAssemblyReference.cache
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\obj\Debug\netcoreapp3.1\JwtWebApi.DataAccess.AssemblyInfoInputs.cache
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\obj\Debug\netcoreapp3.1\JwtWebApi.DataAccess.AssemblyInfo.cs
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\bin\Debug\netcoreapp3.1\JwtWebApi.DataAccess.deps.json
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\bin\Debug\netcoreapp3.1\JwtWebApi.DataAccess.runtimeconfig.json
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\bin\Debug\netcoreapp3.1\JwtWebApi.DataAccess.runtimeconfig.dev.json
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\bin\Debug\netcoreapp3.1\JwtWebApi.DataAccess.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\bin\Debug\netcoreapp3.1\JwtWebApi.DataAccess.pdb
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\bin\Debug\netcoreapp3.1\JwtWebApi.Entity.pdb
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\obj\Debug\netcoreapp3.1\JwtWebApi.DataAccess.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\obj\Debug\netcoreapp3.1\JwtWebApi.DataAccess.csproj.CopyComplete
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\obj\Debug\netcoreapp3.1\JwtWebApi.DataAccess.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\obj\Debug\netcoreapp3.1\JwtWebApi.DataAccess.pdb
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.DataAccess\obj\Debug\netcoreapp3.1\JwtWebApi.DataAccess.genruntimeconfig.cache

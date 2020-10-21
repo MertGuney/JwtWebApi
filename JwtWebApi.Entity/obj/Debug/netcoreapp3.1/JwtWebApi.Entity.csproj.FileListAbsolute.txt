@@ -1,0 +1,9 @@
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\bin\Debug\netcoreapp3.1\JwtWebApi.Entity.deps.json
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\bin\Debug\netcoreapp3.1\JwtWebApi.Entity.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\bin\Debug\netcoreapp3.1\JwtWebApi.Entity.pdb
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\obj\Debug\netcoreapp3.1\JwtWebApi.Entity.csprojAssemblyReference.cache
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\obj\Debug\netcoreapp3.1\JwtWebApi.Entity.AssemblyInfoInputs.cache
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\obj\Debug\netcoreapp3.1\JwtWebApi.Entity.AssemblyInfo.cs
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\obj\Debug\netcoreapp3.1\JwtWebApi.Entity.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\obj\Debug\netcoreapp3.1\JwtWebApi.Entity.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Entity\obj\Debug\netcoreapp3.1\JwtWebApi.Entity.pdb

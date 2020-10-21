@@ -1,0 +1,14 @@
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\bin\Debug\netcoreapp3.1\JwtWebApi.Business.deps.json
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\bin\Debug\netcoreapp3.1\JwtWebApi.Business.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\bin\Debug\netcoreapp3.1\JwtWebApi.Business.pdb
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\bin\Debug\netcoreapp3.1\JwtWebApi.DataAccess.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\bin\Debug\netcoreapp3.1\JwtWebApi.Entity.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\bin\Debug\netcoreapp3.1\JwtWebApi.DataAccess.pdb
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\bin\Debug\netcoreapp3.1\JwtWebApi.Entity.pdb
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\obj\Debug\netcoreapp3.1\JwtWebApi.Business.csprojAssemblyReference.cache
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\obj\Debug\netcoreapp3.1\JwtWebApi.Business.AssemblyInfoInputs.cache
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\obj\Debug\netcoreapp3.1\JwtWebApi.Business.AssemblyInfo.cs
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\obj\Debug\netcoreapp3.1\JwtWebApi.Business.csproj.CopyComplete
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\obj\Debug\netcoreapp3.1\JwtWebApi.Business.dll
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\obj\Debug\netcoreapp3.1\JwtWebApi.Business.pdb
+F:\VisualStudio\source\JwtWebApi\JwtWebApi.Business\obj\Debug\netcoreapp3.1\JwtWebApi.Business.csproj.CoreCompileInputs.cache
